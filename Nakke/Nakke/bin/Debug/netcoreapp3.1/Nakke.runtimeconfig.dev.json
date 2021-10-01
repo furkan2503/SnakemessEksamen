@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fanta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fanta\\.nuget\\packages"
+    ]
+  }
+}

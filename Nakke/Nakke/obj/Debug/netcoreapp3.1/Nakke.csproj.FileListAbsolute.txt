@@ -1,0 +1,27 @@
+C:\Users\fanta\VisualStudio  C#\Nakke\Nakke\bin\Debug\netcoreapp3.1\Nakke.exe
+C:\Users\fanta\VisualStudio  C#\Nakke\Nakke\bin\Debug\netcoreapp3.1\Nakke.deps.json
+C:\Users\fanta\VisualStudio  C#\Nakke\Nakke\bin\Debug\netcoreapp3.1\Nakke.runtimeconfig.json
+C:\Users\fanta\VisualStudio  C#\Nakke\Nakke\bin\Debug\netcoreapp3.1\Nakke.runtimeconfig.dev.json
+C:\Users\fanta\VisualStudio  C#\Nakke\Nakke\bin\Debug\netcoreapp3.1\Nakke.dll
+C:\Users\fanta\VisualStudio  C#\Nakke\Nakke\bin\Debug\netcoreapp3.1\Nakke.pdb
+C:\Users\fanta\VisualStudio  C#\Nakke\Nakke\obj\Debug\netcoreapp3.1\Nakke.AssemblyInfoInputs.cache
+C:\Users\fanta\VisualStudio  C#\Nakke\Nakke\obj\Debug\netcoreapp3.1\Nakke.AssemblyInfo.cs
+C:\Users\fanta\VisualStudio  C#\Nakke\Nakke\obj\Debug\netcoreapp3.1\Nakke.csproj.CoreCompileInputs.cache
+C:\Users\fanta\VisualStudio  C#\Nakke\Nakke\obj\Debug\netcoreapp3.1\Nakke.dll
+C:\Users\fanta\VisualStudio  C#\Nakke\Nakke\obj\Debug\netcoreapp3.1\Nakke.pdb
+C:\Users\fanta\VisualStudio  C#\Nakke\Nakke\obj\Debug\netcoreapp3.1\Nakke.genruntimeconfig.cache
+C:\Users\fanta\VisualStudio  C#\Nakke\Nakke\obj\Debug\netcoreapp3.1\Nakke.csprojAssemblyReference.cache
+C:\Users\fanta\Downloads\Nakke\Nakke\bin\Debug\netcoreapp3.1\Nakke.exe
+C:\Users\fanta\Downloads\Nakke\Nakke\bin\Debug\netcoreapp3.1\Nakke.deps.json
+C:\Users\fanta\Downloads\Nakke\Nakke\bin\Debug\netcoreapp3.1\Nakke.runtimeconfig.json
+C:\Users\fanta\Downloads\Nakke\Nakke\bin\Debug\netcoreapp3.1\Nakke.runtimeconfig.dev.json
+C:\Users\fanta\Downloads\Nakke\Nakke\bin\Debug\netcoreapp3.1\Nakke.dll
+C:\Users\fanta\Downloads\Nakke\Nakke\bin\Debug\netcoreapp3.1\Nakke.pdb
+C:\Users\fanta\Downloads\Nakke\Nakke\obj\Debug\netcoreapp3.1\Nakke.csproj.AssemblyReference.cache
+C:\Users\fanta\Downloads\Nakke\Nakke\obj\Debug\netcoreapp3.1\Nakke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanta\Downloads\Nakke\Nakke\obj\Debug\netcoreapp3.1\Nakke.AssemblyInfoInputs.cache
+C:\Users\fanta\Downloads\Nakke\Nakke\obj\Debug\netcoreapp3.1\Nakke.AssemblyInfo.cs
+C:\Users\fanta\Downloads\Nakke\Nakke\obj\Debug\netcoreapp3.1\Nakke.csproj.CoreCompileInputs.cache
+C:\Users\fanta\Downloads\Nakke\Nakke\obj\Debug\netcoreapp3.1\Nakke.dll
+C:\Users\fanta\Downloads\Nakke\Nakke\obj\Debug\netcoreapp3.1\Nakke.pdb
+C:\Users\fanta\Downloads\Nakke\Nakke\obj\Debug\netcoreapp3.1\Nakke.genruntimeconfig.cache
